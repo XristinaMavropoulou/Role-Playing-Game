@@ -1,9 +1,9 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
+### First and Last Name: MAVROPOULOU XRISTINA
+### University Registration Number: dpsd19073
 ### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### Digital & Serious Games Personal Repository:  https://xristinamavropoulou.github.io/Role-Playing-Game/
 
 # Introduction
 
@@ -12,7 +12,7 @@
 
 # 1st Deliverable
 
-
+test
 # 2nd Deliverable
 
 
